@@ -8,7 +8,7 @@ namespace M320_Projektarbeit
 {
     public interface IAddress
     {        
-        void setAddress();
+        void setAddress(string address);
         string getAddress();
     }
 }

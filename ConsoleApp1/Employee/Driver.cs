@@ -8,9 +8,29 @@ namespace M320_Projektarbeit.Employee
 {
     public class Driver : Employee
     {
-        //List<Customers> Enthält die Kunden, welche von diesem Fahrer beliefert werden
-        //addCustomer
-        //removeCustomer
-        //getCustomers
+        //Membervariable
+        private List<Customer> _Customers;
+
+        //Konstruktor
+        public Driver(string name, string address, string accountNumber, decimal salary) : base(name, address, accountNumber, salary)
+        {
+            _Customers = new List<Customer>();
+        }
+
+        //Methoden
+        public List<Customer> getCustomers()
+        {
+            return _Customers;
+        }
+
+        public void addCustomer(Customer customer)
+        {
+            _Customers.Add(customer);
+        }
+
+        public void removeCustomer(Customer customer)
+        {
+            _Customers.Remove(customer);
+        }
     }
 }
