@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConsoleApp1",
+    "\\ConsoleApp1\\Employee",
+    "\\ConsoleApp1\\Produkte"
   ],
+  "SelectedNode": "\\ConsoleApp1\\IAddress.cs",
   "PreviewInSolutionExplorer": false
 }
