@@ -8,5 +8,7 @@ namespace M320_Projektarbeit
 {
     public interface IExpirationDate
     {
+        DateTime getExpirationDate();
+        void setExpirationDate(DateTime expirationDate);
     }
 }

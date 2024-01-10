@@ -29,8 +29,8 @@ namespace M320_Projektarbeit.Employee
         }
 
         public override decimal getSalary()
-        {
-            return base.GetSalary() + _Bonus;
+        {            
+            return base.getSalary() + _Bonus;
         }
     }
 }
