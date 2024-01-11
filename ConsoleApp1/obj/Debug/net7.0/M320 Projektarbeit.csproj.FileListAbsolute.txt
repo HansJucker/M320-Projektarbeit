@@ -54,3 +54,17 @@ C:\Users\basil\Source\Repos\M320-Projektarbeit12\ConsoleApp1\obj\Debug\net7.0\re
 C:\Users\basil\Source\Repos\M320-Projektarbeit12\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.pdb
 C:\Users\basil\Source\Repos\M320-Projektarbeit12\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.genruntimeconfig.cache
 C:\Users\basil\Source\Repos\M320-Projektarbeit12\ConsoleApp1\obj\Debug\net7.0\ref\M320 Projektarbeit.dll
+C:\Users\basil\Source\Repos\M320-Projektarbeit99\ConsoleApp1\bin\Debug\net7.0\M320 Projektarbeit.exe
+C:\Users\basil\Source\Repos\M320-Projektarbeit99\ConsoleApp1\bin\Debug\net7.0\M320 Projektarbeit.deps.json
+C:\Users\basil\Source\Repos\M320-Projektarbeit99\ConsoleApp1\bin\Debug\net7.0\M320 Projektarbeit.runtimeconfig.json
+C:\Users\basil\Source\Repos\M320-Projektarbeit99\ConsoleApp1\bin\Debug\net7.0\M320 Projektarbeit.dll
+C:\Users\basil\Source\Repos\M320-Projektarbeit99\ConsoleApp1\bin\Debug\net7.0\M320 Projektarbeit.pdb
+C:\Users\basil\Source\Repos\M320-Projektarbeit99\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Source\Repos\M320-Projektarbeit99\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.AssemblyInfoInputs.cache
+C:\Users\basil\Source\Repos\M320-Projektarbeit99\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.AssemblyInfo.cs
+C:\Users\basil\Source\Repos\M320-Projektarbeit99\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.csproj.CoreCompileInputs.cache
+C:\Users\basil\Source\Repos\M320-Projektarbeit99\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.dll
+C:\Users\basil\Source\Repos\M320-Projektarbeit99\ConsoleApp1\obj\Debug\net7.0\refint\M320 Projektarbeit.dll
+C:\Users\basil\Source\Repos\M320-Projektarbeit99\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.pdb
+C:\Users\basil\Source\Repos\M320-Projektarbeit99\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.genruntimeconfig.cache
+C:\Users\basil\Source\Repos\M320-Projektarbeit99\ConsoleApp1\obj\Debug\net7.0\ref\M320 Projektarbeit.dll
