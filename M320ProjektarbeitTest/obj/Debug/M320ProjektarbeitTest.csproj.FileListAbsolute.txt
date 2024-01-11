@@ -1,2 +1,0 @@
-C:\Users\basil\Source\Repos\M320-Projektarbeit12\M320ProjektarbeitTest\obj\Debug\M320ProjektarbeitTest.csproj.AssemblyReference.cache
-C:\Users\basil\Source\Repos\M320-Projektarbeit12\M320ProjektarbeitTest\obj\Debug\M320ProjektarbeitTest.csproj.CoreCompileInputs.cache
