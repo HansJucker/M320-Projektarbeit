@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4VZXY0Zeaf46d5Fo7ZOadR1t/C7xIR0/mcP+XCaFF8LBFtBeh5eDRQPI6SqJW3/WblYDVnUL9Vpgz0KAt7qUyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basil\\Source\\Repos\\M320-Projektarbeit12\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basil\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\basil\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

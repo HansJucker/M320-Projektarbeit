@@ -1,0 +1,24 @@
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\bin\Debug\net7.0\M320 Projektarbeit.deps.json
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\bin\Debug\net7.0\M320 Projektarbeit.runtimeconfig.json
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\bin\Debug\net7.0\M320 Projektarbeit.exe
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\bin\Debug\net7.0\nunit.engine.dll
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\bin\Debug\net7.0\nunit.engine.api.dll
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\bin\Debug\net7.0\nunit.engine.core.dll
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\bin\Debug\net7.0\testcentric.engine.metadata.dll
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.deps.json
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.dll
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.pdb
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\bin\Debug\net7.0\M320 Projektarbeit.dll
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\bin\Debug\net7.0\M320 Projektarbeit.pdb
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.CopyComplete
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.dll
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\obj\Debug\net7.0\refint\ClassLibrary1.dll
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.pdb
+C:\Users\basil\Source\Repos\M320-Projektarbeit12\ClassLibrary1\obj\Debug\net7.0\ref\ClassLibrary1.dll

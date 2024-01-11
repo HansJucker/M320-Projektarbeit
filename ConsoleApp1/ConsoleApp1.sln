@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M320 Projektarbeit", "M320 Projektarbeit.csproj", "{DFBBA4EB-59F8-415C-9C0C-8D27A4ACBC10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M320ProjektarbeitTest", "..\M320ProjektarbeitTest\M320ProjektarbeitTest.csproj", "{F52C64E2-DEF1-486C-A883-0C2B022D3C4D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "..\ClassLibrary1\ClassLibrary1.csproj", "{7C7AA5AF-E76C-4623-838F-157BE265681B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{DFBBA4EB-59F8-415C-9C0C-8D27A4ACBC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFBBA4EB-59F8-415C-9C0C-8D27A4ACBC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFBBA4EB-59F8-415C-9C0C-8D27A4ACBC10}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F52C64E2-DEF1-486C-A883-0C2B022D3C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F52C64E2-DEF1-486C-A883-0C2B022D3C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F52C64E2-DEF1-486C-A883-0C2B022D3C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F52C64E2-DEF1-486C-A883-0C2B022D3C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C7AA5AF-E76C-4623-838F-157BE265681B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7AA5AF-E76C-4623-838F-157BE265681B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7AA5AF-E76C-4623-838F-157BE265681B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7AA5AF-E76C-4623-838F-157BE265681B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

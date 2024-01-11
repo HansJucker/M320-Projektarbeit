@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "M320 Projektarbeit": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
