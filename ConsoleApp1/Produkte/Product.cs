@@ -10,9 +10,9 @@ namespace M320_Projektarbeit.Produkte
     {
         private  string _productName;
         private  Supplier _supplier;
-        public int _unitsInStock;
-        public double _buyPrice;
-        public double _sellPrice;
+        private int _unitsInStock;
+        private double _buyPrice;
+        private double _sellPrice;
 
 
         public Product (string productName, Supplier supplier)

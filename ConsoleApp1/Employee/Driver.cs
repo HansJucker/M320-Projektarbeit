@@ -8,44 +8,46 @@ namespace M320_Projektarbeit.Employee
 {
     public class Driver : Employee
     {
-        //Membervariable
-        public List<Customer> _Customers;
-        public List<Delivery> _Delivery;
+        // Membervariable
+        private List<Customer> _customers;
+        private List<Delivery> _delivery;
 
-        //Konstruktor
+        // Konstruktor
         public Driver(string name, string address, string accountNumber, decimal salary) : base(name, address, accountNumber, salary)
         {
-            _Customers = new List<Customer>();
-            _Delivery = new List<Delivery>();
+            _customers = new List<Customer>();
+            _delivery = new List<Delivery>();
         }
 
-        //Methoden
+        // Methoden
         public List<Customer> getCustomers()
         {
-            return _Customers;
+            return _customers;
         }
 
         public void addCustomer(Customer customer)
         {
-            _Customers.Add(customer);
+            _customers.Add(customer);
         }
 
         public void removeCustomer(Customer customer)
         {
-            _Customers.Remove(customer);
+            _customers.Remove(customer);
         }
+
         public void addDelivery(Delivery delivery)
         {
-            _Delivery.Add(delivery);
+            _delivery.Add(delivery);
         }
+
         public List<Delivery> getDeliveries()
         {
-            return _Delivery;
+            return _delivery;
         }
 
         public void printDeliveries()
         {
-            foreach (Delivery delivery in _Delivery)
+            foreach (Delivery delivery in _delivery)
             {
                 Console.WriteLine(delivery.ToString());
             }

@@ -12,3 +12,17 @@ C:\Users\basil\Source\Repos\M320-Projektarbeit\ConsoleApp1\obj\Debug\net7.0\refi
 C:\Users\basil\Source\Repos\M320-Projektarbeit\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.pdb
 C:\Users\basil\Source\Repos\M320-Projektarbeit\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.genruntimeconfig.cache
 C:\Users\basil\Source\Repos\M320-Projektarbeit\ConsoleApp1\obj\Debug\net7.0\ref\M320 Projektarbeit.dll
+C:\Users\mmagloum\Source\Repos\HansJucker\M320-Projektarbeit\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmagloum\Source\Repos\HansJucker\M320-Projektarbeit\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.AssemblyInfoInputs.cache
+C:\Users\mmagloum\Source\Repos\HansJucker\M320-Projektarbeit\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.AssemblyInfo.cs
+C:\Users\mmagloum\Source\Repos\HansJucker\M320-Projektarbeit\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.csproj.CoreCompileInputs.cache
+C:\Users\mmagloum\Source\Repos\HansJucker\M320-Projektarbeit\ConsoleApp1\bin\Debug\net7.0\M320 Projektarbeit.exe
+C:\Users\mmagloum\Source\Repos\HansJucker\M320-Projektarbeit\ConsoleApp1\bin\Debug\net7.0\M320 Projektarbeit.deps.json
+C:\Users\mmagloum\Source\Repos\HansJucker\M320-Projektarbeit\ConsoleApp1\bin\Debug\net7.0\M320 Projektarbeit.runtimeconfig.json
+C:\Users\mmagloum\Source\Repos\HansJucker\M320-Projektarbeit\ConsoleApp1\bin\Debug\net7.0\M320 Projektarbeit.dll
+C:\Users\mmagloum\Source\Repos\HansJucker\M320-Projektarbeit\ConsoleApp1\bin\Debug\net7.0\M320 Projektarbeit.pdb
+C:\Users\mmagloum\Source\Repos\HansJucker\M320-Projektarbeit\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.dll
+C:\Users\mmagloum\Source\Repos\HansJucker\M320-Projektarbeit\ConsoleApp1\obj\Debug\net7.0\refint\M320 Projektarbeit.dll
+C:\Users\mmagloum\Source\Repos\HansJucker\M320-Projektarbeit\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.pdb
+C:\Users\mmagloum\Source\Repos\HansJucker\M320-Projektarbeit\ConsoleApp1\obj\Debug\net7.0\M320 Projektarbeit.genruntimeconfig.cache
+C:\Users\mmagloum\Source\Repos\HansJucker\M320-Projektarbeit\ConsoleApp1\obj\Debug\net7.0\ref\M320 Projektarbeit.dll

@@ -16,17 +16,16 @@ namespace M320_Projektarbeit
         private Driver _driver;
         private Customer _customer;
         private int _amount;
+
         public Delivery(Product product, Driver driver, Customer customer, int amount) 
         {
-            
-                _product = product;
-                _driver = driver;
-                _customer = customer;
-                _amount = amount;
-                product.removeUnitsFromStock(amount);
-                driver.addDelivery(this);
-                customer.addDelivery(this);                
-                         
+            _product = product;
+            _driver = driver;
+            _customer = customer;
+            _amount = amount;
+            product.removeUnitsFromStock(amount);
+            driver.addDelivery(this);
+            customer.addDelivery(this);                          
         }       
 
     }

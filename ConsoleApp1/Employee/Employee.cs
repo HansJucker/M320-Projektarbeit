@@ -9,59 +9,59 @@ namespace M320_Projektarbeit.Employee
     public class Employee :IAddress
     {
         //Membervariablen
-        private string _Name;
-        private string _Address;
-        private string _AccountNumber;
-        private decimal _Salary;
+        private string _name;
+        private string _address;
+        private string _accountNumber;
+        private decimal _salary;
 
         //Konstruktor
         public Employee(string name, string address, string accountNumber, decimal salary)
         {
-            _Name = name;
-            _Address = address;
-            _AccountNumber = accountNumber;
-            _Salary = salary;
+            _name = name;
+            _address = address;
+            _accountNumber = accountNumber;
+            _salary = salary;
         }
 
         //Methoden
         public string getName()
         {
-            return _Name;
+            return _name;
         }
 
         public void setName(string name)
         {
-            _Name = name;
+            _name = name;
         }
 
         public string getAddress()
         {
-            return _Address;
+            return _address;
         }
 
         public void setAddress(string address)
         {
-            _Address = address;
+            _address = address;
         }
 
         public string getAccountNumber()
         {
-            return _AccountNumber;
+            return _accountNumber;
         }
 
         public void setAccountNumber(string accountNumber)
         {
-            _AccountNumber = accountNumber;
+            _accountNumber = accountNumber;
         }
 
         public virtual decimal getSalary()
         {
-            return _Salary;
+            return _salary;
         }
 
         public void setSalary(decimal salary)
         {
-            _Salary = salary;
+            _salary = salary;
         }
     }
 }

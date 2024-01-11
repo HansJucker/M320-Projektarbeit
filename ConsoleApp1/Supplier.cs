@@ -29,10 +29,12 @@ namespace M320_Projektarbeit
         {
             _supplierName = supplierName;
         }
+
         public string getSupplierName() 
         {
             return _supplierName;
         }
+
         public List<Product> getProducts()
         {
             return _products;
@@ -47,14 +49,17 @@ namespace M320_Projektarbeit
         {
             _products.Remove(product);
         }
+
         public void setAddress(string address)
         {
             _address = address;
         }
+
         public string getAddress()
         {
             return _address;
         }
+
         public void addOrder(Order order)
         {
             _orders.Add(order);
