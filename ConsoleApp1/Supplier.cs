@@ -64,5 +64,16 @@ namespace M320_Projektarbeit
         {
             _orders.Add(order);
         }
+        public List<Order> getOrders()
+        {
+            return _orders;
+        }
+        public void printOrder()
+        {
+            foreach (Order order in _orders)
+            {
+                order.getOrderDetails();
+            }
+        }
     }
 }

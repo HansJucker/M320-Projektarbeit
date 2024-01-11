@@ -10,13 +10,13 @@ namespace M320_Projektarbeit.Employee
     {
         // Membervariable
         private List<Customer> _customers;
-        private List<Delivery> _delivery;
+        private List<Delivery> _deliveries;
 
         // Konstruktor
         public Driver(string name, string address, string accountNumber, decimal salary) : base(name, address, accountNumber, salary)
         {
             _customers = new List<Customer>();
-            _delivery = new List<Delivery>();
+            _deliveries = new List<Delivery>();
         }
 
         // Methoden
@@ -34,23 +34,10 @@ namespace M320_Projektarbeit.Employee
         {
             _customers.Remove(customer);
         }
-
         public void addDelivery(Delivery delivery)
         {
-            _delivery.Add(delivery);
-        }
-
-        public List<Delivery> getDeliveries()
-        {
-            return _delivery;
-        }
-
-        public void printDeliveries()
-        {
-            foreach (Delivery delivery in _delivery)
-            {
-                Console.WriteLine(delivery.ToString());
-            }
-        }
+            _deliveries.Add(delivery);
+        }       
+            
     }
 }

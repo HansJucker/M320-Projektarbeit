@@ -11,7 +11,7 @@ namespace M320_Projektarbeit
         //Membervariable
         private string _address;
         private string _customerName;
-        private List<Delivery> _delivery;
+        public List<Delivery> _delivery;
 
         //Konstruktor
         public Customer(string customerName, string address)
@@ -44,7 +44,14 @@ namespace M320_Projektarbeit
         public void addDelivery(Delivery delivery)
         {
             _delivery.Add(delivery);
+        }        
+        public void printDeliveryDetails()
+        {
+            foreach (Delivery delivery in _delivery){
+                delivery.getDeliveryDetails();
+            }
         }
+        
     }
 }
 
