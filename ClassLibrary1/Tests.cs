@@ -24,7 +24,7 @@ public class ProductTests
         product.removeUnitsFromStock(unitsToRemove);
 
         // Assert
-        Assert.That(initialStock - unitsToRemove == product.getUnitsInStock());     
+        Assert.That(stockShouldBe == product.getUnitsInStock());     
          
         
     }

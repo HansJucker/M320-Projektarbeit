@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AvFWERhCeRPQWCiA74vJC202ZuhaU0ntllMOEki7JXTur+NX+irCHZDxjri1+otkGmAbgP4A+dxtiwKBiIoOIQ==",
+  "dgSpecHash": "viy8ztnLRgHrLDObR+tKm6CV8jnWIg3kt2sBQZXWxiElaYSbqfQOHrli+4kRsd2p3CG1Q40byVTrywNyUENxvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\basil\\Source\\Repos\\M320-Projektarbeit999\\ClassLibrary1\\ClassLibrary1.csproj",
+  "projectFilePath": "C:\\Users\\basil\\Source\\Repos\\M320-ProjektarbeitFertig\\ClassLibrary1\\ClassLibrary1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\basil\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
     "C:\\Users\\basil\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
