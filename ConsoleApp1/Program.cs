@@ -62,7 +62,6 @@ namespace M320_Projektarbeit
             Console.WriteLine($"The expiration date for {p1.getProductName()} is {p1.getExpirationDate()}");
 
             d1.getDeliveryDetails();
-            //d2.getDeliveryDetails();
 
             s1.printOrder();
             s2.printOrder();
@@ -71,10 +70,7 @@ namespace M320_Projektarbeit
             Console.WriteLine($"There are now {p1.getUnitsInStock()} {p1.getProductName()} in stock");
 
             c1.printDeliveryDetails();
-            //c2.printDeliveryDetails();
-
-            //funktioniert noch nicht
-            //s1.printOrders(); //das selbe mit printOrders()
+            
             Console.ReadLine();
 
 
